@@ -5,7 +5,7 @@
 - What happens when we click
 - How does internet works
 - Basics of HTML
-- Excercise using HTML Tags
+- Excercise using HTML Tags (Making a portfolio website)
 
 #### Week 2
 - What is Git
